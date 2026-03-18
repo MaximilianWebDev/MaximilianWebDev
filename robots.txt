@@ -6,5 +6,5 @@ Disallow: /tmp/
 Disallow: /private/
 
 
-Sitemap: https://autogaz.ru/sitemap.xml
+Sitemap: https://maximilianwebdev.github.io/sitemap.xml
 
